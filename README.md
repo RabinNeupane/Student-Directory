@@ -48,6 +48,6 @@ A **responsive React application** to manage and track student performance. This
 ## Installation
 
 1. Clone the repository:
-
+[
 ```bash
-git clone https://github.com/RabinNeupane/Student-Directory.git
+git clone https://github.com/RabinNeupane/Student-Directory.git](https://github.com/RabinNeupane/Student-Directory.git)
