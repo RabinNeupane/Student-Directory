@@ -24,9 +24,39 @@ A **responsive React application** to manage and track student performance. This
 - **React.js** (Functional Components & Hooks)
 - **CSS / Responsive Design**
 - **LocalStorage** for data persistence
-- Optional **Firebase Hosting** for deployment
 
----
+## 📁 Folder Structure
+
+```text
+STUDENT_DIRECTORY/
+├── node_modules/
+├── public/
+├── screenshots/
+│   ├── Dark_Grid_Mode.png
+│   ├── Dark_List_Mode.png
+│   ├── Light_Grid_Mode.png
+│   ├── Light_List_Mode.png
+│   └── Sort_BY_Grade.png
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Badge.jsx
+│   │   ├── Button.jsx
+│   │   ├── Input.jsx
+│   │   ├── StudentCard.jsx
+│   │   ├── StudentForm.jsx
+│   │   └── Toolbar.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
+```
 
 ## Screenshots
 
